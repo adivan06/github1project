@@ -1,0 +1,22 @@
+    <h1>Adrian</h1>
+    <h2>CSS</h2>
+    <h3>4</h3>
+    <h4>5</h4>
+    <h5>6</h5>
+    <h6>7</h6>
+
+<b> Bold </b>
+
+<div>
+	<b>Bold</b>
+</div>
+Pentru a merge la o noua linie pentru elementele inline.
+
+
+18:00
+
+Deschide pagina noua in tab nou:
+<a href="https://www.mediacurier.ro/mediacurier/" target="_blank">Site-ul oficial</a>
+
+Deschide pagina noua in acelasi tab:
+<a href="/dashboard.html">Dashboard</a>
